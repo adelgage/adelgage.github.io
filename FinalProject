@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <title>Final Project</title>
+    <style>
+            body {
+                background-image: url("gage_Background.jpg");
+        }
+        </style>
+  </head>
+  <body>
+    <img src="Gage_Banner1.jpg">
+    <h1>About Me!</h1>
+            <a href="index.html"> <img src="Homebut.png"></a>
+            <a href="javascripts.html"> <img src="Javascriptbut.png"></a> 
+            <a href="about.html"> <img src="Aboutmebut.png"></a> 
+             
+      
+     
+     Back to <a href="index.html">home page</a>
+    
+  </body>
+  
+</html>
